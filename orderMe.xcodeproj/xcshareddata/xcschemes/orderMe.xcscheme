@@ -63,6 +63,17 @@
                </Test>
             </SkippedTests>
          </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C25876EF2EB96BAC003ACC1F"
+               BuildableName = "OrderMeUITests.xctest"
+               BlueprintName = "OrderMeUITests"
+               ReferencedContainer = "container:orderMe.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
