@@ -1,11 +1,3 @@
-//
-//  ReservationUITests.swift
-//  orderMe
-//
-//  Created by Adam Cegielka on 10/01/2026.
-//  Copyright © 2026 Boris Gurtovoy. All rights reserved.
-//
-
 import XCTest
 
 final class ReservationUITests: XCTestCase {
